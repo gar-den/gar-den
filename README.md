@@ -2,6 +2,12 @@
 
 <br><br>
 
+<p>
+  - I'm the best nodeman
+</p>
+
+<br>
+
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 
 <p align="center">
