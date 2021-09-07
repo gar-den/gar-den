@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Garden&fontSize=70&animation=twinkling)
 
-<br><br>
+<br>
 
 <p>
-  &ensp;&ensp;&ensp;&ensp;🎖 Best <b>Node man</b> <br>
-  &ensp;&ensp;&ensp;&ensp;🎖 Best <b>Algorithm man</b> <br>
-  &ensp;&ensp;&ensp;&ensp;🎖 Do not afraid of taking time
+  &ensp;&ensp;&ensp;&ensp; 💻 &ensp; Love to working as a <b>Node.js</b> engineer <br>
+  &ensp;&ensp;&ensp;&ensp; 🤔 &ensp; Want to maintain my life as a <b>Backend</b> engineer <br>
+  &ensp;&ensp;&ensp;&ensp; 📖 &ensp; Thinking about <b>Algorithm</b> problems all the time <br>
+  &ensp;&ensp;&ensp;&ensp; ⏱ &ensp; Do not afraid of taking time of my projects
 </p>
-
-<br>
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 
