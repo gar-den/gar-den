@@ -3,7 +3,9 @@
 <br><br>
 
 <p>
-  - I'm the best nodeman
+  🎖 Best <b>Node man</b> <br>
+  🎖 Best <b>Algorithm man</b> <br>
+  🎖 Do not afraid of taking time
 </p>
 
 <br>
