@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Garden&fontSize=70&animation=twinkling)
-  
-<h1 align="center"> Welcome to <span style="color: #6799FF;">Garden</span>'s GitHub!</h1>
+
+<br><br>
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 
