@@ -40,5 +40,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prepella3@gmail.com)](mailto:prepella3@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-47C83E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:p_garden3@naver.com)](mailto:p_garden3@naver.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nameisgarden/)](https://www.instagram.com/nameisgarden/) 
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCAAMS1JVAY05BiBVzumsLgw)](https://www.youtube.com/channel/UCAAMS1JVAY05BiBVzumsLgw) 
   
 </div>
