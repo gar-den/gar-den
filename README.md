@@ -19,3 +19,26 @@
   <img src="https://img.shields.io/badge/HTML-FF5E00?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-4374D9?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fga-den&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gar-den&show_icons=true&theme=solarized-light">
+</p>
+
+<br><br>
+
+<div align=center>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prepella3@gmail.com)](mailto:prepella3@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-47C83E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:p_garden3@naver.com)](mailto:p_garden3@naver.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nameisgarden/)](https://www.instagram.com/nameisgarden/) 
+  
+</div>
