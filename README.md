@@ -7,7 +7,6 @@
   &ensp;&ensp;&ensp;&ensp; 🤔 &ensp; Want to maintain my life as a <b>Backend</b> engineer <br>
   &ensp;&ensp;&ensp;&ensp; 📖 &ensp; Thinking about <b>Algorithm</b> problems all the time <br>
   &ensp;&ensp;&ensp;&ensp; ⏱ &ensp; Do not afraid of taking time of my projects <br>
-  &ensp;&ensp;&ensp;&ensp; 🇰🇷🇺🇸🇪🇸  &ensp; Fluent in <b>Korean</b>, <b>English</b>. Y un poco en <b>Español</b>.
 </p>
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
