@@ -3,13 +3,14 @@
 <br>
 
 <p>
-  &ensp;&ensp;&ensp;&ensp; 💻 &ensp; Love to working as a <b>Node.js</b> engineer <br>
+  &ensp;&ensp;&ensp;&ensp; 💻 &ensp; Love to working as a <b>Spring Boot & Node.js</b> engineer <br>
   &ensp;&ensp;&ensp;&ensp; 🤔 &ensp; Want to maintain my life as a <b>Backend</b> engineer <br>
 </p>
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-2478FF?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-4374D9?style=flat-square&logo=python&logoColor=white"/>
   <br>
@@ -17,6 +18,7 @@
   <img src="https://img.shields.io/badge/mysql-29487d?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-a12228?style=flat-square&logo=redis&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/springboot-2F9D27?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-2F9D27?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-234200?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/>
